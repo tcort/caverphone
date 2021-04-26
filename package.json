@@ -1,0 +1,25 @@
+{
+  "name": "caverphone",
+  "version": "0.0.0",
+  "description": "A JavaScript implementation of the Caverphone 2.0 (aka Caverphone Revised) phonetic matching algorithm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcort/caverphone.git"
+  },
+  "keywords": [
+    "caverphone",
+    "phonetic",
+    "matching",
+    "algorithm"
+  ],
+  "author": "Thomas Cort <linuxgeek@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tcort/caverphone/issues"
+  },
+  "homepage": "https://github.com/tcort/caverphone#readme"
+}
